@@ -1,0 +1,9 @@
+body {
+    background-color:red;
+}
+
+#head {
+    font-size: 10px;
+    font-family: Monospace;
+    color: blue;
+}
